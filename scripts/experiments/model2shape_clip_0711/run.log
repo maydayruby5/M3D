@@ -1,0 +1,16 @@
+24-08-24 12:44:21: Namespace(DefRec_dist='volume_based_voxels', DefRec_on_src=False, DefRec_weight=0.5, apply_PCM=True, batch_size=32, dataroot='./data', dropout=0.5, epochs=150, exp_name='model2shape_clip_0711', gpus=[0], lr=0.0001, mixup_params=1.0, model='dgcnn', momentum=0.9, num_regions=3, optimizer='ADAM', out_path='./experiments', seed=1, src_dataset1='scannet', src_dataset2='shapenet', test_batch_size=16, trgt_dataset='modelnet', wd=5e-05)
+24-08-24 12:44:21: Using GPUs [0], from 1 devices available
+24-08-24 12:47:02: Namespace(DefRec_dist='volume_based_voxels', DefRec_on_src=False, DefRec_weight=0.5, apply_PCM=True, batch_size=32, dataroot='./data', dropout=0.5, epochs=150, exp_name='model2shape_clip_0711', gpus=[0], lr=0.0001, mixup_params=1.0, model='dgcnn', momentum=0.9, num_regions=3, optimizer='ADAM', out_path='./experiments', seed=1, src_dataset1='scannet', src_dataset2='shapenet', test_batch_size=16, trgt_dataset='modelnet', wd=5e-05)
+24-08-24 12:47:02: Using GPUs [0], from 1 devices available
+03-03-25 09:01:58: Namespace(DefRec_dist='volume_based_voxels', DefRec_on_src=False, DefRec_weight=0.5, apply_PCM=False, batch_size=32, dataroot='./data', dropout=0.5, epochs=150, exp_name='model2shape_clip_0711', gpus=[0], lr=0.0001, mixup_params=1.0, model='dgcnn', momentum=0.9, num_regions=3, optimizer='ADAM', out_path='./experiments', seed=1, src_dataset1='modelnet', test_batch_size=32, trgt_dataset='shapenet', wd=5e-05)
+03-03-25 09:01:58: Using GPUs [0], from 1 devices available
+03-03-25 09:01:58: number of train examples in modelnet : 0
+03-03-25 09:01:58: Occurrences count of classes in modelnet train set: {}
+03-03-25 09:01:58: number of train examples in shapenet: 0
+03-03-25 09:01:58: Occurrences count of classes in shapenet train set: {}
+03-03-25 09:01:58: number of test examples in shapenet: 0
+03-03-25 09:01:58: Occurrences count of classes in shapenet test set: {}
+03-03-25 09:01:58: Occurrences count of classes in source modelnet train part: {}
+03-03-25 09:01:58: Occurrences count of classes in source modelnet validation part: {}
+03-03-25 09:01:58: Occurrences count of classes in target shapenet train part: {}
+03-03-25 09:01:58: Occurrences count of classes in target shapenet validation part: {}
